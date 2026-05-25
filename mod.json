@@ -1,0 +1,12 @@
+{
+    "geode": "5.7.1",
+    "gd": {
+        "win": "2.2081",
+        "android": "2.2081"
+    },
+    "id": "ogd.bums",
+    "name": "Bums!",
+    "version": "v1.0.0",
+    "description": "Makes frame perfects WAY easier.",
+    "developer": "OGD"
+}
